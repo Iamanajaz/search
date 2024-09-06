@@ -67,8 +67,11 @@ border: 1px solid white;
   /* position: fixed;
   top: 300px;
   right: 20px; */
-  margin-top:10px ;
-  margin-left: 47%;
+  /* margin-top:10px ;
+  margin-left: 47%; */
+  float:right ;
+  margin-right: 10px;
+  
   color: azure;
   background-color: #179712;
   padding: 10px;
